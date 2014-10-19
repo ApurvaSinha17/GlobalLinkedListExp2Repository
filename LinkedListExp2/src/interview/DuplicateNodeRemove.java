@@ -31,7 +31,6 @@ public class DuplicateNodeRemove {
 		long endTimeMillis = endTime.getTimeInMillis();
 		
 		System.out.println("Time elapsed: "+(endTimeMillis-initialTimeMillis));
-		System.out.println("Thank You");
 	}
 
 	public void displayList(Node headNode){
