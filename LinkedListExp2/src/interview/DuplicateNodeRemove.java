@@ -86,6 +86,7 @@ public class DuplicateNodeRemove {
 				currNode = currNode.getNextNode();
 			}
 		}
+		System.out.println("Demo");
 		return false;
 	}
 	
