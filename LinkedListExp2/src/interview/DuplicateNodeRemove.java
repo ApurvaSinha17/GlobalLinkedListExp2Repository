@@ -114,6 +114,7 @@ public class DuplicateNodeRemove {
 			}
 			
 			node = next;
+			System.out.println("Demo");
 		}
 		return headNode;
 	}
